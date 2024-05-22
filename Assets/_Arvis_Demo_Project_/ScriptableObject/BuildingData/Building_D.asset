@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e516a23a6cb67154cb8f913748144a45, type: 3}
+  m_Name: Building_D
+  m_EditorClassIdentifier: 
+  serializationData:
+    SerializedFormat: 2
+    SerializedBytes: 
+    ReferencedUnityObjects: []
+    SerializedBytesString: 
+    Prefab: {fileID: 0}
+    PrefabModificationsReferencedUnityObjects: []
+    PrefabModifications: []
+    SerializationNodes: []
+  _buildingId: 4
+  _buildingName: Building_D
+  _buildingDescription: 
+  _buildingGemPrice: 7
+  _buildingGoldPrice: 40
+  _gemProductionRate: 1
+  _gemProductionSpeed: 10
+  _goldProductionRate: 10
+  _goldProductionSpeed: 30
+  _buildingIcon: {fileID: 21300000, guid: 039d653bc8e88284cb26f6c31ac28f55, type: 3}
+  _shapeType: 3
+  _shapePosition:
+  - {x: 0, y: 0}
+  - {x: 1, y: 0}
+  - {x: 0, y: 1}
+  - {x: 1, y: 1}
+  _debuggingNote: 
